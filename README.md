@@ -117,4 +117,8 @@ Currently doing a research internship at [LSIR](https://www.epfl.ch/labs/lsir/) 
     <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" height="20" style="margin-bottom: -5px;" alt="Firebase Logo">
 </a>
 
+<a href="https://pytorch.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="20" style="margin-bottom: -5px;" alt="Pytorch Logo">
+</a>
+
 </div>
