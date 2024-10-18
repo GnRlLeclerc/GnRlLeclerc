@@ -27,7 +27,7 @@ Currently doing a research internship at [LSIR](https://www.epfl.ch/labs/lsir/) 
 
 🧼 Clean Code fanatic
 
-⚙️ Find my dotfiles [here](https://github.com/TiboX2021/dotfiles)!
+⚙️ Find my new dotfiles [here](https://github.com/GnRlLeclerc/nixfiles) and my old ones [there](https://github.com/TiboX2021/dotfiles)!
 
 ---
 
