@@ -2,8 +2,6 @@
 
 I am a 4th year student at [École Polytechnique](https://www.polytechnique.edu/), currently studying AI at [Télécom Paris](https://www.telecom-paris.fr/) in France. Major in Computer Science.
 
-Currently doing a research internship at [LSIR](https://www.epfl.ch/labs/lsir/) about mediation by large language models.
-
 ## Experience
 
 - Research intern at [LSIR](https://www.epfl.ch/labs/lsir/) 🇨🇭(April 2024 - August 2024)
