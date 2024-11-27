@@ -76,7 +76,7 @@ I am a 4th year student at [École Polytechnique](https://www.polytechnique.edu/
 </a>
 
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language">
-    <img src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png" height="20" style="margin-bottom: -5px;" alt="Assembly Logo">
+    <img src="https://w7.pngwing.com/pngs/322/656/png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo-thumbnail.png" height="20" style="margin-bottom: -5px;" alt="Assembly Logo">
 </a>
 
 <a href="https://go.dev/">
