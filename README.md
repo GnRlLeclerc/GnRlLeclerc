@@ -17,7 +17,7 @@ I am a 4th year student at [École Polytechnique](https://www.polytechnique.edu/
 
 🎶 Prog Metal & French House enjoyer
 
-💻 I use <img src="https://static-00.iconduck.com/assets.00/nixos-icon-2048x1776-8czr8nir.png" height="20" style="margin-bottom: -5px;" alt="NixOS Logo"> , btw.
+💻 I use <img src="https://icon.icepanel.io/Technology/svg/NixOS.svg" height="20" style="margin-bottom: -5px;" alt="NixOS"> , btw.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" height="20" style="margin-bottom: -5px;" alt="Neovim Logo"> Neovim over <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="20" style="margin-bottom: -5px;" alt="VSCode Logo"> VSCode (although I like both)
 
